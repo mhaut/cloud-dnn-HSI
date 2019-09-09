@@ -8,6 +8,8 @@ DOI: 10.1109/TGRS.2019.2929731
 Accepted for publication, 2019.
 ```
 
+![Pipeline](https://github.com/mhaut/cloud-dnn-HSI/blob/master/images/pipeline.png)
+
 For other hand, this code is based on **A Scalable Implementation of Deep Learning on Spark** [https://github.com/avulanov/scalable-deeplearning] and the implementation of artificial neural networks in **Spark ML** (https://spark.apache.org/docs/latest/ml-classification-regression.html#multilayer-perceptron-classifier). In addition to the multilayer perceptron, it contains new deep learning features such as Tied Autoencoders, new activations functions and a cleaned up output results presentation.
 
 ## Installation
