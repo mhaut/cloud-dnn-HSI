@@ -5,7 +5,7 @@ J. M. Haut, Jose A. Gallardo, M. E. Paoletti, G. Cavallaro, J. Plaza, A. Plaza a
 Cloud Deep Networks for Hyperspectral Image Analysis. 
 IEEE Transactions on Geoscience and Remote Sensing
 DOI: 10.1109/TGRS.2019.2929731 
-Accepted for publication, 2019.
+vol. 57, no. 12, pp. 9832-9848,  December 2019.
 ```
 
 ![Pipeline](https://github.com/mhaut/cloud-dnn-HSI/blob/master/images/pipeline.png)
